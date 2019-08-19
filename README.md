@@ -1,2 +1,3 @@
 # Yalp Store (with SAI)
-This app is able to install split apks without root.
+This app can install split apks without root.
+But it still cannnot install them with root.
